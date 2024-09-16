@@ -1,0 +1,20 @@
+/* .animated-button-container {
+    text-align: center;
+    margin-top: 50px;
+   
+   }
+   
+   .animated-button{
+       background-color: #4caf50;
+       color: white;
+       font-size:16px;
+       border-radius:8px;
+       cursor: pointer;
+       transition: all 0.3s ease;
+   }
+   
+   .animated-button:hover{
+       background-color: #4caf50;
+       transform: scale(1.1);
+       box-shadow: 0px 8px 15px rgba(0,0,0, 0.2);
+   } */
